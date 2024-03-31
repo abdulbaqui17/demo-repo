@@ -1,3 +1,5 @@
+this is the added line
+
 Project Title: "IdeaX: Empowering Voices, Enhancing Education"
 
 Description:
